@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">INVENTORY APPLICATION</string>
+    <string name="no_inventory_message">At present there are no products.Add an item by clicking on the
+        options and selecting Add Products button at the top right corner.</string>
+    <string name="delete_all_products">Delete all products</string>
+    <string name="sale_button">Sale</string>
+    <string name="product_name_label">Product Name:</string>
+    <string name="product_price_label">Price: </string>
+    <string name="product_availability_label">Availability: </string>
+    <string name="product_image_label">Image: </string>
+    <string name="action_save">Save Product</string>
+    <string name="action_delete">Delete Product</string>
+    <string name="editor_insert_failed">Failed to insert a new product.</string>
+    <string name="editor_insert_successful">Successfully inserted new product.</string>
+    <string name="editor_update_failed">Failed to update a new product.</string>
+    <string name="editor_update_successful">Successfully updated new product.</string>
+    <string name="detail_view_title">Product Detail</string>
+    <string name="editor_title_edit">Edit a Product</string>
+    <string name="editor_title_add">Add a Product</string>
+    <string name="action_add">ADD PRODUCT</string>
+    <string name="delete_dialog_message">Would you like to permanently delete all product information?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="supplier_order_button">Order More Product</string>
+</resources>
